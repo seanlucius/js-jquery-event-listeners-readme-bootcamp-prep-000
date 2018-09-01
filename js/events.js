@@ -21,7 +21,7 @@ function pressIt() {
   
   $('input').on('keydown', function(key) {
     
-    if (key.key === )
+    if (key.key === "g")
     
   });
   
