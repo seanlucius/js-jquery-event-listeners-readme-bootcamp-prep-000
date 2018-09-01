@@ -19,7 +19,11 @@ function frameIt() {
 
 function pressIt() {
   
-  $('form').on('keydown', function)
+  $('input').on('keydown', function() {
+    
+    
+    
+  });
   
 }
 
