@@ -12,9 +12,9 @@ function frameIt() {
   
   $('img').on('load', function() {
     
-    $('img').addClass('.style')
+    $('img').addClass('style');
     
-  })
+  });
   
 }
 
