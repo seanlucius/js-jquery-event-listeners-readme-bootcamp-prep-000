@@ -19,7 +19,7 @@ function frameIt() {
 
 function pressIt() {
   
-  $('#typing', 'keydown', function(e) {
+  $('#typing').on('keydown', function(e) {
     
     if (e.key === 'g') {
       
