@@ -23,8 +23,8 @@ function pressIt() {
     
     if (e.key === 'g') {
       
-      alert('You have pressed G!');
-      return;
+      return alert('You have pressed G!');
+    
     }
     
   });
