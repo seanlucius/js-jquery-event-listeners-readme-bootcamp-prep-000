@@ -21,9 +21,9 @@ function pressIt() {
   
   $('#typing').on('keydown', function(e) {
     
-    if (e.key == g) {
+    if (e.which == ) {
       
-      return alert('You have pressed G!');
+      alert('You have pressed G!');
     
     }
     
