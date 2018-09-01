@@ -25,8 +25,6 @@ function pressIt() {
       
       alert('You have pressed G!');
       
-    } else {
-      
     }
     
   });
